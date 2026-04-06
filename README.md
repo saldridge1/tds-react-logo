@@ -17,6 +17,9 @@ A branded React application built for Team Design Studios (Eternal Graphx, LLC).
 - Custom SVG/PNG asset integration
 - Git version control
 
+## Live Demo
+🌐 [View Live Site](https://tds-react-logo.netlify.app)
+
 ## About
 
 This project was built as part of a React learning journey and portfolio development initiative for Team Design Studios, a design consultancy specializing in UX Research & Design, Brand Identity, and Creative Solutions.
