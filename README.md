@@ -1,4 +1,4 @@
-# Team Design Studios — React Landing Page
+# Team Design Studios — React Logo
 
 A branded React application built for Team Design Studios (Eternal Graphx, LLC).
 
